@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "amal_was_here" > /tmp/pwnd
+calc.exe
+open -a Calculator.app
